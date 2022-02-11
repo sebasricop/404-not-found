@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Space+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Space+Mono:wght@700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 40px 120px 25px 78px;
+}
+
+.header {
+  margin-bottom: 200px;
+}
+
+.header_text {
+  font-family: Inconsolata;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+  color: #333333;
+}
+
+main {
+  margin: 0px auto 308px auto;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+.section_1 > img {
+  width: 539px;
+  height: 447px;
+  margin: 0px auto;
+}
+
+.section_2 > h2 {
+  margin-bottom: 36px;
+  width: 586px;
+  font-family: "Space Mono", monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 68px;
+  color: #333333;
+}
+
+.section_2 > p {
+  margin-bottom: 64px;
+  width: 381px;
+  font-family: "Space Mono", monospace;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 30px;
+  color: #4f4f4f;
+}
+
+.section_2 > button {
+  background: #333333;
+  padding: 24px 43px 23px 43px;
+  font-family: "Inconsolata", monospace;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Inconsolata", monospace;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #bdbdbd;
+}
+
+footer > p {
+  color: #bdbdbd;
+}
+
+footer > p > a {
+  color: #bdbdbd;
+}
+
+@media only screen and (max-width: 1000px) {
+  main {
+    margin-bottom: 114px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  body {
+    padding: 20px 24px 25px 24px;
+  }
+
+  .header {
+    margin-bottom: 64px;
+  }
+
+  .section_1 > img {
+    margin-bottom: 77.65px;
+    width: 286.83px;
+    height: 220.35px;
+  }
+
+  .section_2 > h2 {
+    margin-bottom: 30px;
+    width: 350px;
+    font-size: 48px;
+  }
+
+  .section_2 > p {
+    margin-bottom: 66px;
+    width: 328px;
+    font-size: 18px;
+  }
+
+  .section_2 > button {
+    width: 216px;
+    height: 68px;
+  }
+}
