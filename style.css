@@ -32,9 +32,9 @@ body {
 }
 
 main {
-  margin: 0px auto 308px auto;
+  margin: 0px 100px 308px 100px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   flex-direction: row;
 }
 
