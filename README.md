@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404 NOT FOUND}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -41,12 +41,7 @@
 <img src="./Responsive.png" alt="Mobile Version" style="max-width: 40%;">
 
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This is the first challenge of the Responsive Web Designer path. Really, it was a great experience because although it was a short project, I decided not to use any framework and to do it only with HTML and CSS. Also, I was able to learn how to deploy in Firebase.
 
 ### Built With
 
