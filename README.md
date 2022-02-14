@@ -46,11 +46,8 @@ This is the first challenge of the Responsive Web Designer path. Really, it was 
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+HTML
+CSS
 
 ## Features
 
@@ -69,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
+- GitHub [@sebasricop](https://{github.com/your-usermame})
+- Linkedin https://www.linkedin.com/in/sricoperez/
